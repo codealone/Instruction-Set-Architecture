@@ -1,4 +1,4 @@
-# ISA
+# Instruction Set Architecture for 32- bit machine
 
 ###Steps to generate opcode and symbol table:
 ######Symbol table is generated in "symbol1.txt" . 
